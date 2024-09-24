@@ -1,7 +1,7 @@
 ## Ola! Me chamo victorsantoss1
 
 - 🔭 Hoje trabalho com React.
-- 🌱 Estou aprendendo a usar o Angular.
+- 🌱 Estou aprendendo a usar Angular.
    <div style="display: inline_block">
     <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
     <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
